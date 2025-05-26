@@ -1,0 +1,14 @@
+/* 
+    COLOUR PALETTE
+    night:            #182222;
+    dark-slate-gray:  #405B5B;
+    french-gray:      #e2dfe7;
+
+    FONT FAMILIES
+    headings and button: 'Fjalla One', sans-serif;
+    body copy: 'Open Sans', sans-serif;
+*/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
